@@ -5,7 +5,7 @@ INSTA STEAL
 TP INTO OTHER BASES
 SPEED BACK TO YOUR BASE (EQUIP INVISIBILITY QLOAK BEFORE DOING THIS)
 
-SCRIPT: loadstring(game:HttpGet("https://raw.githubusercontent.com/robloxcomphub/comphub/refs/heads/main/comphub.lua"))()
+SCRIPT: loadstring(game:HttpGet("https://raw.githubusercontent.com/tibi627462/Steal-A-Brainrot/refs/heads/main/main.lua"))()
 
 
 ENJOY!
